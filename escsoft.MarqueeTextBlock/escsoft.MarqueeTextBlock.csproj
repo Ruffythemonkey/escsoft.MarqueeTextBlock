@@ -10,6 +10,9 @@
     <Authors>Daniel Schimmelpfennig</Authors>
     <Description>Winui3 Marquee TextBlock
 </Description>
+    <PackageProjectUrl>https://github.com/Ruffythemonkey/escsoft.MarqueeTextBlock</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Ruffythemonkey/escsoft.MarqueeTextBlock</RepositoryUrl>
+    <PackageTags>Marquee, TextBlock, WinUi3</PackageTags>
   </PropertyGroup>
   <ItemGroup>
     <Page Remove="MarqueeTextBlock.xaml" />
